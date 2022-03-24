@@ -98,7 +98,7 @@
 
 /**
  Extracts ad markup from a cached response
- https://github.com/prebid/prebid-server/blob/994d0f06100f4ef872226112e58e1ad9075cd844/openrtb_ext/bid.go#L133
+ https://github.com/aclrys/prebid-server/blob/994d0f06100f4ef872226112e58e1ad9075cd844/openrtb_ext/bid.go#L133
  NOTE: `hb_cache_id` will fetch the entire bid JSON, while `hb_uuid` will fetch just the VAST XML.
  */
 + (NSString *)adMarkupStringFromResponse:(NSString *)rawResponseString {

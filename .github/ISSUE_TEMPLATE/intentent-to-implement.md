@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 ## Type of issue
-<!-- Note if this is a documentation issue, please open a ticket here instead: https://github.com/prebid/prebid.github.io →
+<!-- Note if this is a documentation issue, please open a ticket here instead: https://github.com/aclrys/prebid.github.io →
 Intent to implement
 
 ## Description
